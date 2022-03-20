@@ -8,6 +8,8 @@ Perhaps other people can do the same.
 Links. https://gofounder.com/coworking-space/portsmouth/
 
 
-|Name|Daily price|
-|----|----|
-|Techno people (university innovation)| 30 GBP|
+|Name|Daily price|URL|
+|----|----|----|
+|Techno people (university innovation)| [30 GBP](Ehttps://www.port.ac.uk/collaborate/coworking-and-office-space/desks-and-workspaces)|
+
+
