@@ -8,5 +8,5 @@ Perhaps other people can do the same.
 Links. https://gofounder.com/coworking-space/portsmouth/
 
 
-Name|Daily price|
-Techno people (university innovation)| 30 GBP
+|Name|Daily price|
+|Techno people (university innovation)| 30 GBP|
