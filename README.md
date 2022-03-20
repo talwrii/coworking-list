@@ -10,6 +10,6 @@ Links. https://gofounder.com/coworking-space/portsmouth/
 
 |Name|Daily price|URL|
 |----|----|----|
-|Techno people (university innovation)| [30 GBP](Ehttps://www.port.ac.uk/collaborate/coworking-and-office-space/desks-and-workspaces)|
+|Techno people (university innovation)| [30 GBP](https://www.port.ac.uk/collaborate/coworking-and-office-space/desks-and-workspaces)|
 
 
